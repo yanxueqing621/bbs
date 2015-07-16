@@ -3,8 +3,9 @@
   <head>
    	<title><%= title %></title>
 		<link rel='stylesheet' type='text/css' href='semanticui/dist/semantic.css'>
+		<link rel='stylesheet' type='text/css' href='css/layout/frame.css'>
+    <script src='jquery.js'></script>
 		<script src='semanticui/dist/semantic.js'></script>
-		<script src='css/layout/frame.css'></script>
     <script>
       $(document)
         .ready(function() {
@@ -16,35 +17,35 @@
   <body>
     <div class="ui fixed top blue inverted menu">
       <a href="#" class="item">Home</a>
-      <a href="#" class="item">Home1</a>
-      <a href="#" class="item">Home2</a>
-      <a href="#" class="item">Home3</a>
+      <a href="#" class="item">版主招聘</a>
+      <a href="#" class="item">社区功能</a>
       <div class="right menu">
-        <a class="item">Sign Up</a>
-        <a class="item">Logout</a>
+        <a class="item">登录</a>
+        <a class="item">注册</a>
       </div>
     </div>
     <div class='ui hidden divider'></div>
     <div class='ui hidden divider'></div>
+    <div class='ui hidden divider'></div>
 
-    <div class='ui equal width left aligned page grid'>  
+    <div class='ui equal width left aligned page grid' id = 'main'>
       <div class='row'>
         <div class='ui column'>
-          <div class='ui segment'>
-            header
-          </div>
-        </div>
-        <div class='column'></div>
-        <div class='column'>
-          <div class='ui segment'>
-            search 
+          <div class='ui menu'>
+           <h1>Our Mojolicious Community</h1>
+            <div class='right item'>
+              <div class='ui action input'>
+                <input placeholder='search..' type='text'>
+                <div class='ui blue button'>搜索</div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
 
       <div class='row'>
         <div class='column'>
-          <h5 class="ui top attached header">Attached </h5>
+          <h5 class="ui top attached header">最新帖子</h5>
           <div class="ui attached segment">
             <p>aaaaaaaaaaaaa</p>
             <p>aaaaaaaaaaaaa</p>
@@ -52,7 +53,7 @@
           </div>
         </div>
         <div class='column'>
-          <h5 class="ui top attached header">Attached </h5>
+          <h5 class="ui top attached header">最新回复</h5>
           <div class="ui attached segment">
             <p>aaaaaaaaaaaaa</p>
             <p>aaaaaaaaaaaaa</p>
@@ -60,7 +61,7 @@
           </div>
         </div>
         <div class='column'>
-          <h5 class="ui top attached header">Attached </h5>
+          <h5 class="ui top attached header">本周热门</h5>
           <div class="ui attached segment">
             <p>aaaaaaaaaaaaa</p>
             <p>aaaaaaaaaaaaa</p>
@@ -68,7 +69,7 @@
           </div>
         </div>
         <div class='column'>
-          <h5 class="ui top attached header">Attached </h5>
+          <h5 class="ui top attached header">新会员</h5>
           <div class="ui attached segment">
             <p>aaaaaaaaaaaaa</p>
             <p>aaaaaaaaaaaaa</p>
@@ -79,19 +80,21 @@
 
       <div class='row'>
         <div class='column'>
-          <h5 class="ui top attached header">Top Attached </h5>
+          <h5 class="ui top attached header">社区中心</h5>
           <div class="ui attached segment">
             <p></p>
           </div>
-          <h5 class="ui attached header">
-            Attached
-          </h5>
+          <h5 class="ui attached header">Mojolicious交流区</h5>
           <div class="ui attached segment">
+            <p>aaaaaaaaaaaaa</p>
+            <p>aaaaaaaaaaaaa</p>
+            <p>aaaaaaaaaaaaa</p>
+            <p>aaaaaaaaaaaaa</p>
+            <p>aaaaaaaaaaaaa</p>
+            <p>aaaaaaaaaaaaa</p>
             <p></p>
           </div>
-          <h5 class="ui attached header">
-            Attached
-          </h5>
+          <h5 class="ui attached header">其他交流区</h5>
           <div class="ui attached segment">
             <p></p>
           </div>

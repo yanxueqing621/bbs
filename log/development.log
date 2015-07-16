@@ -913,3 +913,465 @@
 [Wed Jul 15 00:23:40 2015] [debug] Controller "BBS::Layouts" does not exist
 [Wed Jul 15 00:23:40 2015] [debug] Rendering template "layouts/frame.html.ep"
 [Wed Jul 15 00:23:40 2015] [debug] 200 OK (0.006388s, 156.544/s)
+[Thu Jul 16 11:17:26 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:17:26 2015] [debug] GET "/"
+[Thu Jul 16 11:17:26 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Thu Jul 16 11:17:26 2015] [debug] Rendering template "example/welcome.html.ep"
+[Thu Jul 16 11:17:26 2015] [debug] Template "layouts/default.html.ep" not found
+[Thu Jul 16 11:17:26 2015] [debug] 200 OK (0.004827s, 207.168/s)
+[Thu Jul 16 11:17:31 2015] [debug] GET "/default"
+[Thu Jul 16 11:17:31 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:17:31 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:17:31 2015] [debug] 200 OK (0.003173s, 315.159/s)
+[Thu Jul 16 11:25:04 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:25:04 2015] [debug] GET "/default"
+[Thu Jul 16 11:25:04 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:25:04 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:25:04 2015] [debug] 200 OK (0.119829s, 8.345/s)
+[Thu Jul 16 11:25:53 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:25:53 2015] [debug] GET "/default"
+[Thu Jul 16 11:25:53 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:25:53 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:25:53 2015] [debug] 200 OK (0.013644s, 73.292/s)
+[Thu Jul 16 11:26:08 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:26:08 2015] [debug] GET "/default"
+[Thu Jul 16 11:26:08 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:26:08 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:26:08 2015] [debug] 200 OK (0.016857s, 59.323/s)
+[Thu Jul 16 11:27:17 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:27:17 2015] [debug] GET "/default"
+[Thu Jul 16 11:27:17 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:27:17 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:27:17 2015] [debug] 200 OK (0.014159s, 70.626/s)
+[Thu Jul 16 11:27:34 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:27:34 2015] [debug] GET "/default"
+[Thu Jul 16 11:27:34 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:27:34 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:27:34 2015] [debug] 200 OK (0.018472s, 54.136/s)
+[Thu Jul 16 11:27:45 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:27:45 2015] [debug] GET "/default"
+[Thu Jul 16 11:27:45 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:27:45 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:27:45 2015] [debug] 200 OK (0.013707s, 72.955/s)
+[Thu Jul 16 11:29:23 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:29:23 2015] [debug] GET "/default"
+[Thu Jul 16 11:29:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:29:23 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:29:23 2015] [debug] 200 OK (0.016197s, 61.740/s)
+[Thu Jul 16 11:30:09 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:30:09 2015] [debug] GET "/default"
+[Thu Jul 16 11:30:09 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:30:09 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:30:09 2015] [debug] 200 OK (0.016886s, 59.221/s)
+[Thu Jul 16 11:30:12 2015] [debug] GET "/default"
+[Thu Jul 16 11:30:12 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:30:12 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:30:12 2015] [debug] 200 OK (0.003628s, 275.634/s)
+[Thu Jul 16 11:30:22 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:30:22 2015] [debug] GET "/default"
+[Thu Jul 16 11:30:22 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:30:22 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:30:22 2015] [debug] 200 OK (0.013151s, 76.040/s)
+[Thu Jul 16 11:30:45 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:30:45 2015] [debug] GET "/default"
+[Thu Jul 16 11:30:45 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:30:45 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:30:45 2015] [debug] 200 OK (0.014629s, 68.357/s)
+[Thu Jul 16 11:31:14 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:31:14 2015] [debug] GET "/default"
+[Thu Jul 16 11:31:14 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:31:14 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:31:14 2015] [debug] 200 OK (0.016095s, 62.131/s)
+[Thu Jul 16 11:31:42 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:31:42 2015] [debug] GET "/default"
+[Thu Jul 16 11:31:42 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:31:42 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:31:42 2015] [debug] 200 OK (0.014698s, 68.036/s)
+[Thu Jul 16 11:40:15 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:40:15 2015] [debug] GET "/default"
+[Thu Jul 16 11:40:15 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:40:15 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:40:15 2015] [debug] 200 OK (0.014621s, 68.395/s)
+[Thu Jul 16 11:41:00 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:41:00 2015] [debug] GET "/default"
+[Thu Jul 16 11:41:00 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:41:00 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:41:00 2015] [debug] 200 OK (0.013266s, 75.381/s)
+[Thu Jul 16 11:42:40 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:42:40 2015] [debug] GET "/default"
+[Thu Jul 16 11:42:40 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:42:40 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:42:40 2015] [debug] 200 OK (0.017522s, 57.071/s)
+[Thu Jul 16 11:43:03 2015] [debug] GET "/default"
+[Thu Jul 16 11:43:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:43:03 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:43:03 2015] [debug] 200 OK (0.002417s, 413.736/s)
+[Thu Jul 16 11:43:05 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:43:05 2015] [debug] GET "/default"
+[Thu Jul 16 11:43:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:43:05 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:43:05 2015] [debug] 200 OK (0.013080s, 76.453/s)
+[Thu Jul 16 11:45:20 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:45:20 2015] [debug] GET "/default"
+[Thu Jul 16 11:45:20 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:45:20 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:45:20 2015] [debug] 200 OK (0.015241s, 65.612/s)
+[Thu Jul 16 11:46:15 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:46:15 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:15 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:15 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:15 2015] [debug] 200 OK (0.012683s, 78.846/s)
+[Thu Jul 16 11:46:19 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:19 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:19 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:19 2015] [debug] 200 OK (0.002202s, 454.133/s)
+[Thu Jul 16 11:46:21 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:21 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:21 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:21 2015] [debug] 200 OK (0.002084s, 479.846/s)
+[Thu Jul 16 11:46:26 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:46:26 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:26 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:26 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:26 2015] [debug] 200 OK (0.014496s, 68.985/s)
+[Thu Jul 16 11:46:54 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:46:54 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:54 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:54 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:54 2015] [debug] 200 OK (0.012780s, 78.247/s)
+[Thu Jul 16 11:46:56 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:56 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:56 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:56 2015] [debug] 200 OK (0.002013s, 496.771/s)
+[Thu Jul 16 11:46:57 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:57 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:57 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:57 2015] [debug] 200 OK (0.001106s, 904.159/s)
+[Thu Jul 16 11:46:58 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:58 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:58 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:58 2015] [debug] 200 OK (0.002120s, 471.698/s)
+[Thu Jul 16 11:46:58 2015] [debug] GET "/default"
+[Thu Jul 16 11:46:58 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:46:58 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:46:58 2015] [debug] 200 OK (0.000962s, 1039.501/s)
+[Thu Jul 16 11:47:03 2015] [debug] GET "/default"
+[Thu Jul 16 11:47:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:47:03 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:47:03 2015] [debug] 200 OK (0.002708s, 369.276/s)
+[Thu Jul 16 11:47:03 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:47:03 2015] [debug] GET "/default"
+[Thu Jul 16 11:47:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:47:03 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:47:03 2015] [debug] 200 OK (0.013010s, 76.864/s)
+[Thu Jul 16 11:47:04 2015] [debug] GET "/default"
+[Thu Jul 16 11:47:04 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:47:04 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:47:04 2015] [debug] 200 OK (0.001080s, 925.926/s)
+[Thu Jul 16 11:47:04 2015] [debug] GET "/default"
+[Thu Jul 16 11:47:04 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:47:04 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:47:04 2015] [debug] 200 OK (0.002255s, 443.459/s)
+[Thu Jul 16 11:47:37 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:47:37 2015] [debug] GET "/default"
+[Thu Jul 16 11:47:37 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:47:37 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:47:37 2015] [debug] 200 OK (0.012951s, 77.214/s)
+[Thu Jul 16 11:47:39 2015] [debug] GET "/default"
+[Thu Jul 16 11:47:39 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:47:39 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:47:39 2015] [debug] 200 OK (0.002967s, 337.041/s)
+[Thu Jul 16 11:48:22 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:48:22 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:22 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:22 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:22 2015] [debug] 200 OK (0.014998s, 66.676/s)
+[Thu Jul 16 11:48:23 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:23 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:23 2015] [debug] 200 OK (0.001084s, 922.509/s)
+[Thu Jul 16 11:48:23 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:23 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:23 2015] [debug] 200 OK (0.001367s, 731.529/s)
+[Thu Jul 16 11:48:23 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:23 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:23 2015] [debug] 200 OK (0.001913s, 522.739/s)
+[Thu Jul 16 11:48:23 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:23 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:23 2015] [debug] 200 OK (0.003123s, 320.205/s)
+[Thu Jul 16 11:48:35 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:48:35 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:35 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:35 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:35 2015] [debug] 200 OK (0.015675s, 63.796/s)
+[Thu Jul 16 11:48:35 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:35 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:35 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:35 2015] [debug] 200 OK (0.002542s, 393.391/s)
+[Thu Jul 16 11:48:36 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:36 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:36 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:36 2015] [debug] 200 OK (0.001299s, 769.823/s)
+[Thu Jul 16 11:48:46 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:48:46 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:46 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:46 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:46 2015] [debug] 200 OK (0.012861s, 77.754/s)
+[Thu Jul 16 11:48:55 2015] [debug] GET "/default"
+[Thu Jul 16 11:48:55 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:48:55 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:48:55 2015] [debug] 200 OK (0.000970s, 1030.928/s)
+[Thu Jul 16 11:49:38 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:49:38 2015] [debug] GET "/default"
+[Thu Jul 16 11:49:38 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:49:38 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:49:38 2015] [debug] 200 OK (0.013031s, 76.740/s)
+[Thu Jul 16 11:50:05 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:50:05 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:05 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:05 2015] [debug] 200 OK (0.017622s, 56.747/s)
+[Thu Jul 16 11:50:06 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:06 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:06 2015] [debug] 200 OK (0.002973s, 336.361/s)
+[Thu Jul 16 11:50:14 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:50:14 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:14 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:14 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:14 2015] [debug] 200 OK (0.013953s, 71.669/s)
+[Thu Jul 16 11:50:40 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:50:40 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:40 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:40 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:40 2015] [debug] 200 OK (0.013410s, 74.571/s)
+[Thu Jul 16 11:50:41 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:41 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:41 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:41 2015] [debug] 200 OK (0.000963s, 1038.422/s)
+[Thu Jul 16 11:50:41 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:41 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:41 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:41 2015] [debug] 200 OK (0.001303s, 767.460/s)
+[Thu Jul 16 11:50:41 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:42 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:42 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:42 2015] [debug] 200 OK (0.002813s, 355.492/s)
+[Thu Jul 16 11:50:42 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:42 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:42 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:42 2015] [debug] 200 OK (0.001151s, 868.810/s)
+[Thu Jul 16 11:50:51 2015] [debug] GET "/default"
+[Thu Jul 16 11:50:51 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:50:51 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:50:51 2015] [debug] 200 OK (0.001114s, 897.666/s)
+[Thu Jul 16 11:51:04 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:51:04 2015] [debug] GET "/default"
+[Thu Jul 16 11:51:04 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:51:04 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:51:04 2015] [debug] 200 OK (0.016488s, 60.650/s)
+[Thu Jul 16 11:51:26 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:51:26 2015] [debug] GET "/default"
+[Thu Jul 16 11:51:26 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:51:26 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:51:26 2015] [debug] 200 OK (0.014196s, 70.442/s)
+[Thu Jul 16 11:55:16 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:55:16 2015] [debug] GET "/default"
+[Thu Jul 16 11:55:16 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:55:16 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:55:16 2015] [debug] 200 OK (0.014252s, 70.166/s)
+[Thu Jul 16 11:55:35 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:55:35 2015] [debug] GET "/default"
+[Thu Jul 16 11:55:35 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:55:35 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:55:35 2015] [debug] 200 OK (0.013962s, 71.623/s)
+[Thu Jul 16 11:55:36 2015] [debug] GET "/default"
+[Thu Jul 16 11:55:36 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:55:36 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:55:36 2015] [debug] 200 OK (0.000960s, 1041.667/s)
+[Thu Jul 16 11:55:37 2015] [debug] GET "/default"
+[Thu Jul 16 11:55:37 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:55:37 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:55:37 2015] [debug] 200 OK (0.001656s, 603.865/s)
+[Thu Jul 16 11:55:37 2015] [debug] GET "/default"
+[Thu Jul 16 11:55:37 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:55:37 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:55:37 2015] [debug] 200 OK (0.000952s, 1050.420/s)
+[Thu Jul 16 11:55:45 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:55:45 2015] [debug] GET "/default"
+[Thu Jul 16 11:55:45 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:55:45 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:55:45 2015] [debug] 200 OK (0.015109s, 66.186/s)
+[Thu Jul 16 11:56:06 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:56:06 2015] [debug] GET "/default"
+[Thu Jul 16 11:56:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:56:06 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:56:06 2015] [debug] 200 OK (0.015117s, 66.151/s)
+[Thu Jul 16 11:57:06 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:57:06 2015] [debug] GET "/default"
+[Thu Jul 16 11:57:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:57:06 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:57:06 2015] [debug] 200 OK (0.013865s, 72.124/s)
+[Thu Jul 16 11:57:25 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:57:25 2015] [debug] GET "/default"
+[Thu Jul 16 11:57:25 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:57:25 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:57:25 2015] [debug] 200 OK (0.014117s, 70.837/s)
+[Thu Jul 16 11:57:38 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:57:38 2015] [debug] GET "/default"
+[Thu Jul 16 11:57:38 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:57:38 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:57:38 2015] [debug] 200 OK (0.014177s, 70.537/s)
+[Thu Jul 16 11:57:39 2015] [debug] GET "/default"
+[Thu Jul 16 11:57:39 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:57:39 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:57:39 2015] [debug] 200 OK (0.001434s, 697.350/s)
+[Thu Jul 16 11:58:15 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:58:15 2015] [debug] GET "/default"
+[Thu Jul 16 11:58:15 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:58:15 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:58:15 2015] [debug] 200 OK (0.014918s, 67.033/s)
+[Thu Jul 16 11:58:42 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:58:42 2015] [debug] GET "/default"
+[Thu Jul 16 11:58:42 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:58:42 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:58:42 2015] [debug] 200 OK (0.015743s, 63.520/s)
+[Thu Jul 16 11:58:43 2015] [debug] GET "/default"
+[Thu Jul 16 11:58:43 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:58:43 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:58:43 2015] [debug] 200 OK (0.002469s, 405.022/s)
+[Thu Jul 16 11:58:44 2015] [debug] GET "/default"
+[Thu Jul 16 11:58:44 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:58:44 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:58:44 2015] [debug] 200 OK (0.001195s, 836.820/s)
+[Thu Jul 16 11:58:53 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 11:58:53 2015] [debug] GET "/default"
+[Thu Jul 16 11:58:53 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:58:53 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 11:58:53 2015] [debug] 200 OK (0.014788s, 67.622/s)
+[Thu Jul 16 11:58:54 2015] [debug] GET "/default"
+[Thu Jul 16 11:58:54 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 11:58:54 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 11:58:54 2015] [debug] 200 OK (0.000978s, 1022.495/s)
+[Thu Jul 16 12:00:11 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:00:11 2015] [debug] GET "/default"
+[Thu Jul 16 12:00:11 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:00:11 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:00:11 2015] [debug] 200 OK (0.014447s, 69.219/s)
+[Thu Jul 16 12:00:46 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:00:46 2015] [debug] GET "/default"
+[Thu Jul 16 12:00:46 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:00:46 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:00:46 2015] [debug] 200 OK (0.014225s, 70.299/s)
+[Thu Jul 16 12:00:59 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:00:59 2015] [debug] GET "/default"
+[Thu Jul 16 12:00:59 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:00:59 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:00:59 2015] [debug] 200 OK (0.016578s, 60.321/s)
+[Thu Jul 16 12:01:21 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:01:21 2015] [debug] GET "/default"
+[Thu Jul 16 12:01:21 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:01:21 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:01:21 2015] [debug] 200 OK (0.016621s, 60.165/s)
+[Thu Jul 16 12:01:22 2015] [debug] GET "/default"
+[Thu Jul 16 12:01:22 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:01:22 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:01:22 2015] [debug] 200 OK (0.000959s, 1042.753/s)
+[Thu Jul 16 12:01:23 2015] [debug] GET "/default"
+[Thu Jul 16 12:01:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:01:23 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:01:23 2015] [debug] 200 OK (0.000962s, 1039.501/s)
+[Thu Jul 16 12:02:00 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:02:00 2015] [debug] GET "/default"
+[Thu Jul 16 12:02:00 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:02:00 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:02:00 2015] [debug] 200 OK (0.013515s, 73.992/s)
+[Thu Jul 16 12:02:01 2015] [debug] GET "/default"
+[Thu Jul 16 12:02:01 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:02:01 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:02:01 2015] [debug] 200 OK (0.001275s, 784.314/s)
+[Thu Jul 16 12:02:01 2015] [debug] GET "/default"
+[Thu Jul 16 12:02:01 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:02:01 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:02:01 2015] [debug] 200 OK (0.001466s, 682.128/s)
+[Thu Jul 16 12:06:03 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:06:03 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:03 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:03 2015] [debug] 200 OK (0.014483s, 69.046/s)
+[Thu Jul 16 12:06:05 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:05 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:05 2015] [debug] 200 OK (0.001091s, 916.590/s)
+[Thu Jul 16 12:06:06 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:06 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:06 2015] [debug] 200 OK (0.001314s, 761.035/s)
+[Thu Jul 16 12:06:06 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:06 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:06 2015] [debug] 200 OK (0.001272s, 786.164/s)
+[Thu Jul 16 12:06:06 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:06 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:06 2015] [debug] 200 OK (0.001097s, 911.577/s)
+[Thu Jul 16 12:06:50 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:06:50 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:50 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:50 2015] [debug] 200 OK (0.035499s, 28.170/s)
+[Thu Jul 16 12:06:51 2015] [debug] GET "/default"
+[Thu Jul 16 12:06:51 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:06:51 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:06:51 2015] [debug] 200 OK (0.001347s, 742.390/s)
+[Thu Jul 16 12:07:08 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:07:08 2015] [debug] GET "/default"
+[Thu Jul 16 12:07:08 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:07:08 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:07:08 2015] [debug] 200 OK (0.013936s, 71.757/s)
+[Thu Jul 16 12:09:57 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:09:57 2015] [debug] GET "/default"
+[Thu Jul 16 12:09:57 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:09:57 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:09:57 2015] [debug] 200 OK (0.019550s, 51.151/s)
+[Thu Jul 16 12:09:58 2015] [debug] GET "/default"
+[Thu Jul 16 12:09:58 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:09:58 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:09:58 2015] [debug] 200 OK (0.001015s, 985.222/s)
+[Thu Jul 16 12:10:17 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:10:17 2015] [debug] GET "/default"
+[Thu Jul 16 12:10:17 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:10:17 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:10:17 2015] [debug] 200 OK (0.015324s, 65.257/s)
+[Thu Jul 16 12:10:54 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:10:54 2015] [debug] GET "/default"
+[Thu Jul 16 12:10:54 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:10:54 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:10:55 2015] [debug] 200 OK (0.016394s, 60.998/s)
+[Thu Jul 16 12:10:57 2015] [debug] GET "/default"
+[Thu Jul 16 12:10:57 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:10:57 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:10:57 2015] [debug] 200 OK (0.001223s, 817.661/s)
+[Thu Jul 16 12:12:20 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:12:20 2015] [debug] GET "/default"
+[Thu Jul 16 12:12:20 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:12:20 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:12:20 2015] [debug] 200 OK (0.013949s, 71.690/s)
+[Thu Jul 16 12:13:03 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:13:03 2015] [debug] GET "/default"
+[Thu Jul 16 12:13:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:13:03 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:13:03 2015] [debug] 200 OK (0.014206s, 70.393/s)
+[Thu Jul 16 12:13:19 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 12:13:19 2015] [debug] GET "/default"
+[Thu Jul 16 12:13:19 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:13:19 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 12:13:19 2015] [debug] 200 OK (0.014048s, 71.185/s)
+[Thu Jul 16 12:13:29 2015] [debug] GET "/default"
+[Thu Jul 16 12:13:29 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 12:13:29 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 12:13:29 2015] [debug] 200 OK (0.000992s, 1008.065/s)
+[Thu Jul 16 12:13:29 2015] [debug] Your secret passphrase needs to be changed
