@@ -19,7 +19,7 @@ field goodCount => ( isa => Int );
 field badCount => ( isa => Int );
 field beizhu => ( isa => Str );
 
-has_many replys => 'BBS::Mandel::Reply';
+has_many replies => 'BBS::Mandel::Reply';
 
 1;
 
