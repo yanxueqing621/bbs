@@ -2,3 +2,7 @@ body {
   background-color: #FFFFFF;
 };
 
+.list .item {
+  margin:10px 40px;
+}
+
