@@ -4788,3 +4788,703 @@
 [Thu Jul 16 14:48:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
 [Thu Jul 16 14:48:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
 [Thu Jul 16 14:48:57 2015] [debug] 404 Not Found (0.004075s, 245.399/s)
+[Thu Jul 16 22:58:48 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 22:58:48 2015] [debug] GET "/default"
+[Thu Jul 16 22:58:48 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 22:58:48 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 22:58:48 2015] [debug] 200 OK (0.032115s, 31.138/s)
+[Thu Jul 16 22:58:48 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 22:58:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:58:48 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:58:48 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:58:48 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:58:48 2015] [debug] 404 Not Found (0.041248s, 24.244/s)
+[Thu Jul 16 22:58:48 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 22:58:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:58:48 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:58:48 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:58:48 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:58:48 2015] [debug] 404 Not Found (0.007322s, 136.575/s)
+[Thu Jul 16 22:58:48 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 22:58:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:58:48 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:58:48 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:58:48 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:58:48 2015] [debug] 404 Not Found (0.007386s, 135.391/s)
+[Thu Jul 16 22:59:02 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 22:59:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:02 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:02 2015] [debug] 404 Not Found (0.008759s, 114.168/s)
+[Thu Jul 16 22:59:02 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 22:59:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:02 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:02 2015] [debug] 404 Not Found (0.007896s, 126.646/s)
+[Thu Jul 16 22:59:02 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 22:59:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:02 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:02 2015] [debug] 404 Not Found (0.008094s, 123.548/s)
+[Thu Jul 16 22:59:03 2015] [debug] GET "/"
+[Thu Jul 16 22:59:03 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Thu Jul 16 22:59:03 2015] [debug] Rendering template "example/welcome.html.ep"
+[Thu Jul 16 22:59:03 2015] [debug] Template "layouts/default.html.ep" not found
+[Thu Jul 16 22:59:03 2015] [debug] 200 OK (0.017964s, 55.667/s)
+[Thu Jul 16 22:59:11 2015] [debug] GET "/default"
+[Thu Jul 16 22:59:11 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 22:59:11 2015] [debug] 200 OK (0.001479s, 676.133/s)
+[Thu Jul 16 22:59:11 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:11 2015] [debug] 404 Not Found (0.009050s, 110.497/s)
+[Thu Jul 16 22:59:11 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:11 2015] [debug] 404 Not Found (0.012526s, 79.834/s)
+[Thu Jul 16 22:59:11 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:11 2015] [debug] 404 Not Found (0.011550s, 86.580/s)
+[Thu Jul 16 22:59:11 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:11 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:11 2015] [debug] 404 Not Found (0.007517s, 133.032/s)
+[Thu Jul 16 22:59:11 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:11 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:12 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:12 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:12 2015] [debug] 404 Not Found (0.007891s, 126.727/s)
+[Thu Jul 16 22:59:12 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 22:59:12 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:12 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:12 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:12 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:12 2015] [debug] 404 Not Found (0.007593s, 131.700/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/default"
+[Thu Jul 16 22:59:14 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 22:59:14 2015] [debug] 200 OK (0.001639s, 610.128/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:14 2015] [debug] 404 Not Found (0.007364s, 135.796/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:14 2015] [debug] 404 Not Found (0.009512s, 105.130/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:14 2015] [debug] 404 Not Found (0.008413s, 118.864/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:14 2015] [debug] 404 Not Found (0.007881s, 126.887/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:14 2015] [debug] 404 Not Found (0.007688s, 130.073/s)
+[Thu Jul 16 22:59:14 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 22:59:14 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 22:59:14 2015] [debug] 404 Not Found (0.009098s, 109.914/s)
+[Thu Jul 16 23:08:41 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:08:41 2015] [debug] GET "/default"
+[Thu Jul 16 23:08:41 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:08:41 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:08:41 2015] [debug] 200 OK (0.024498s, 40.820/s)
+[Thu Jul 16 23:08:41 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:41 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:41 2015] [debug] 404 Not Found (0.033149s, 30.167/s)
+[Thu Jul 16 23:08:41 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:41 2015] [debug] 404 Not Found (0.007483s, 133.636/s)
+[Thu Jul 16 23:08:41 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:41 2015] [debug] 404 Not Found (0.007321s, 136.593/s)
+[Thu Jul 16 23:08:41 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:41 2015] [debug] 404 Not Found (0.008276s, 120.831/s)
+[Thu Jul 16 23:08:41 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:41 2015] [debug] 404 Not Found (0.007861s, 127.210/s)
+[Thu Jul 16 23:08:41 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:41 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:41 2015] [debug] 404 Not Found (0.007260s, 137.741/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/default"
+[Thu Jul 16 23:08:51 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 23:08:51 2015] [debug] 200 OK (0.002438s, 410.172/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:51 2015] [debug] 404 Not Found (0.011720s, 85.324/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:51 2015] [debug] 404 Not Found (0.008049s, 124.239/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:51 2015] [debug] 404 Not Found (0.007328s, 136.463/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:51 2015] [debug] 404 Not Found (0.007773s, 128.650/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:51 2015] [debug] 404 Not Found (0.007908s, 126.454/s)
+[Thu Jul 16 23:08:51 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:08:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:08:51 2015] [debug] 404 Not Found (0.007215s, 138.600/s)
+[Thu Jul 16 23:29:17 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:29:17 2015] [debug] GET "/default"
+[Thu Jul 16 23:29:17 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:29:17 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:29:17 2015] [debug] 200 OK (0.025732s, 38.862/s)
+[Thu Jul 16 23:29:17 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:17 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:17 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:17 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:17 2015] [debug] 404 Not Found (0.032257s, 31.001/s)
+[Thu Jul 16 23:29:17 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:17 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:17 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:17 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:17 2015] [debug] 404 Not Found (0.009231s, 108.331/s)
+[Thu Jul 16 23:29:17 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:17 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:17 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:17 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:17 2015] [debug] 404 Not Found (0.007523s, 132.926/s)
+[Thu Jul 16 23:29:19 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:19 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:19 2015] [debug] 404 Not Found (0.009499s, 105.274/s)
+[Thu Jul 16 23:29:19 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:19 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:19 2015] [debug] 404 Not Found (0.008087s, 123.655/s)
+[Thu Jul 16 23:29:19 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:19 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:19 2015] [debug] 404 Not Found (0.007310s, 136.799/s)
+[Thu Jul 16 23:29:50 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:29:50 2015] [debug] GET "/default"
+[Thu Jul 16 23:29:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:29:50 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:29:50 2015] [debug] 200 OK (0.023797s, 42.022/s)
+[Thu Jul 16 23:29:51 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:51 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:51 2015] [debug] 404 Not Found (0.031819s, 31.428/s)
+[Thu Jul 16 23:29:51 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:51 2015] [debug] 404 Not Found (0.007319s, 136.631/s)
+[Thu Jul 16 23:29:51 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:51 2015] [debug] 404 Not Found (0.007211s, 138.677/s)
+[Thu Jul 16 23:29:51 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:51 2015] [debug] 404 Not Found (0.008679s, 115.221/s)
+[Thu Jul 16 23:29:51 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:51 2015] [debug] 404 Not Found (0.007872s, 127.033/s)
+[Thu Jul 16 23:29:51 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:51 2015] [debug] 404 Not Found (0.007336s, 136.314/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/default"
+[Thu Jul 16 23:29:56 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 23:29:56 2015] [debug] 200 OK (0.001585s, 630.915/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:56 2015] [debug] 404 Not Found (0.007583s, 131.874/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:56 2015] [debug] 404 Not Found (0.008293s, 120.584/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:56 2015] [debug] 404 Not Found (0.008980s, 111.359/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:56 2015] [debug] 404 Not Found (0.008189s, 122.115/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:56 2015] [debug] 404 Not Found (0.007907s, 126.470/s)
+[Thu Jul 16 23:29:56 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:56 2015] [debug] 404 Not Found (0.007222s, 138.466/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/default"
+[Thu Jul 16 23:29:57 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Thu Jul 16 23:29:57 2015] [debug] 200 OK (0.001602s, 624.220/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:57 2015] [debug] 404 Not Found (0.007832s, 127.681/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:57 2015] [debug] 404 Not Found (0.010072s, 99.285/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:57 2015] [debug] 404 Not Found (0.009354s, 106.906/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:57 2015] [debug] 404 Not Found (0.009039s, 110.632/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:57 2015] [debug] 404 Not Found (0.007636s, 130.959/s)
+[Thu Jul 16 23:29:57 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:29:57 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:29:57 2015] [debug] 404 Not Found (0.007276s, 137.438/s)
+[Thu Jul 16 23:33:22 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:33:22 2015] [debug] GET "/default"
+[Thu Jul 16 23:33:22 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:33:22 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:33:22 2015] [debug] 200 OK (0.023830s, 41.964/s)
+[Thu Jul 16 23:33:22 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:33:22 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:33:22 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:33:22 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:33:22 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:33:22 2015] [debug] 404 Not Found (0.028338s, 35.288/s)
+[Thu Jul 16 23:33:22 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:33:22 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:33:22 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:33:22 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:33:22 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:33:22 2015] [debug] 404 Not Found (0.007451s, 134.210/s)
+[Thu Jul 16 23:33:22 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:33:22 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:33:22 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:33:22 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:33:22 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:33:22 2015] [debug] 404 Not Found (0.007387s, 135.373/s)
+[Thu Jul 16 23:33:24 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:33:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:33:24 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:33:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:33:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:33:24 2015] [debug] 404 Not Found (0.008388s, 119.218/s)
+[Thu Jul 16 23:33:24 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:33:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:33:24 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:33:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:33:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:33:24 2015] [debug] 404 Not Found (0.008442s, 118.455/s)
+[Thu Jul 16 23:33:24 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:33:24 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:33:24 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:33:24 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:33:24 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:33:24 2015] [debug] 404 Not Found (0.007703s, 129.820/s)
+[Thu Jul 16 23:34:00 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:34:00 2015] [debug] GET "/default"
+[Thu Jul 16 23:34:00 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:34:00 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:34:00 2015] [debug] 200 OK (0.030160s, 33.156/s)
+[Thu Jul 16 23:34:00 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:34:00 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:34:00 2015] [debug] 404 Not Found (0.027471s, 36.402/s)
+[Thu Jul 16 23:34:00 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:34:00 2015] [debug] 404 Not Found (0.007517s, 133.032/s)
+[Thu Jul 16 23:34:00 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:34:00 2015] [debug] 404 Not Found (0.007308s, 136.836/s)
+[Thu Jul 16 23:34:00 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:34:00 2015] [debug] 404 Not Found (0.008792s, 113.740/s)
+[Thu Jul 16 23:34:00 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:34:00 2015] [debug] 404 Not Found (0.007810s, 128.041/s)
+[Thu Jul 16 23:34:00 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:34:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:34:00 2015] [debug] 404 Not Found (0.007306s, 136.874/s)
+[Thu Jul 16 23:47:07 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:47:07 2015] [debug] GET "/default"
+[Thu Jul 16 23:47:07 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:47:07 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:47:07 2015] [debug] 200 OK (0.023089s, 43.311/s)
+[Thu Jul 16 23:47:07 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:47:07 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:47:07 2015] [debug] 404 Not Found (0.035571s, 28.113/s)
+[Thu Jul 16 23:47:07 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:47:07 2015] [debug] 404 Not Found (0.008114s, 123.244/s)
+[Thu Jul 16 23:47:07 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:47:07 2015] [debug] 404 Not Found (0.007425s, 134.680/s)
+[Thu Jul 16 23:47:07 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:47:07 2015] [debug] 404 Not Found (0.008560s, 116.822/s)
+[Thu Jul 16 23:47:07 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:47:07 2015] [debug] 404 Not Found (0.008528s, 117.261/s)
+[Thu Jul 16 23:47:07 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:47:07 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:47:07 2015] [debug] 404 Not Found (0.007825s, 127.796/s)
+[Thu Jul 16 23:50:51 2015] [debug] Your secret passphrase needs to be changed
+[Thu Jul 16 23:50:51 2015] [debug] GET "/default"
+[Thu Jul 16 23:50:51 2015] [debug] Controller "BBS::Layouts" does not exist
+[Thu Jul 16 23:50:51 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Thu Jul 16 23:50:52 2015] [debug] 200 OK (0.025674s, 38.950/s)
+[Thu Jul 16 23:50:52 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:50:52 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:50:52 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:50:52 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:50:52 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:50:52 2015] [debug] 404 Not Found (0.034023s, 29.392/s)
+[Thu Jul 16 23:50:52 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:50:52 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:50:52 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:50:52 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:50:52 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:50:52 2015] [debug] 404 Not Found (0.007402s, 135.099/s)
+[Thu Jul 16 23:50:52 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:50:52 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:50:52 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:50:52 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:50:52 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:50:52 2015] [debug] 404 Not Found (0.007313s, 136.743/s)
+[Thu Jul 16 23:50:54 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Thu Jul 16 23:50:54 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:50:54 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:50:54 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:50:54 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:50:54 2015] [debug] 404 Not Found (0.009499s, 105.274/s)
+[Thu Jul 16 23:50:54 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Thu Jul 16 23:50:54 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:50:54 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:50:54 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:50:54 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:50:54 2015] [debug] 404 Not Found (0.008024s, 124.626/s)
+[Thu Jul 16 23:50:54 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Thu Jul 16 23:50:54 2015] [debug] Template "not_found.development.html.ep" not found
+[Thu Jul 16 23:50:54 2015] [debug] Template "not_found.html.ep" not found
+[Thu Jul 16 23:50:54 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Thu Jul 16 23:50:54 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Thu Jul 16 23:50:54 2015] [debug] 404 Not Found (0.007321s, 136.593/s)
+[Fri Jul 17 00:05:46 2015] [debug] Your secret passphrase needs to be changed
+[Fri Jul 17 00:05:46 2015] [debug] GET "/"
+[Fri Jul 17 00:05:46 2015] [debug] Controller "BBS::Home" does not exist
+[Fri Jul 17 00:05:46 2015] [debug] Rendering template "home/index.html.ep"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Fri Jul 17 00:05:46 2015] [debug] 200 OK (0.032305s, 30.955/s)
+[Fri Jul 17 00:05:46 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:05:46 2015] [debug] 404 Not Found (0.035402s, 28.247/s)
+[Fri Jul 17 00:05:46 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:05:46 2015] [debug] 404 Not Found (0.007589s, 131.770/s)
+[Fri Jul 17 00:05:46 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:05:46 2015] [debug] 404 Not Found (0.007385s, 135.410/s)
+[Fri Jul 17 00:05:46 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:05:46 2015] [debug] 404 Not Found (0.013301s, 75.182/s)
+[Fri Jul 17 00:05:46 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:05:46 2015] [debug] 404 Not Found (0.007729s, 129.383/s)
+[Fri Jul 17 00:05:46 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:05:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:05:46 2015] [debug] 404 Not Found (0.008000s, 125.000/s)
+[Fri Jul 17 00:07:55 2015] [debug] Your secret passphrase needs to be changed
+[Fri Jul 17 00:07:55 2015] [debug] GET "/"
+[Fri Jul 17 00:07:55 2015] [debug] Controller "BBS::Home" does not exist
+[Fri Jul 17 00:07:55 2015] [debug] Rendering template "home/index.html.ep"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Fri Jul 17 00:07:55 2015] [debug] 200 OK (0.023968s, 41.722/s)
+[Fri Jul 17 00:07:55 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:55 2015] [debug] 404 Not Found (0.029594s, 33.791/s)
+[Fri Jul 17 00:07:55 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:55 2015] [debug] 404 Not Found (0.007302s, 136.949/s)
+[Fri Jul 17 00:07:55 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:55 2015] [debug] 404 Not Found (0.007419s, 134.789/s)
+[Fri Jul 17 00:07:55 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:55 2015] [debug] 404 Not Found (0.008558s, 116.850/s)
+[Fri Jul 17 00:07:55 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:55 2015] [debug] 404 Not Found (0.007908s, 126.454/s)
+[Fri Jul 17 00:07:55 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:55 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:55 2015] [debug] 404 Not Found (0.007283s, 137.306/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/"
+[Fri Jul 17 00:07:58 2015] [debug] Controller "BBS::Home" does not exist
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached template "home/index.html.ep"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Fri Jul 17 00:07:58 2015] [debug] 200 OK (0.001902s, 525.762/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:58 2015] [debug] 404 Not Found (0.007673s, 130.327/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:58 2015] [debug] 404 Not Found (0.008359s, 119.632/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:58 2015] [debug] 404 Not Found (0.008650s, 115.607/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:58 2015] [debug] 404 Not Found (0.011093s, 90.147/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:58 2015] [debug] 404 Not Found (0.008184s, 122.190/s)
+[Fri Jul 17 00:07:58 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:07:58 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:07:58 2015] [debug] 404 Not Found (0.007288s, 137.212/s)
+[Fri Jul 17 00:11:59 2015] [debug] Your secret passphrase needs to be changed
+[Fri Jul 17 00:11:59 2015] [debug] GET "/"
+[Fri Jul 17 00:11:59 2015] [debug] Controller "BBS::Home" does not exist
+[Fri Jul 17 00:11:59 2015] [debug] Rendering template "home/index.html.ep"
+[Fri Jul 17 00:11:59 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Fri Jul 17 00:11:59 2015] [debug] 200 OK (0.023588s, 42.394/s)
+[Fri Jul 17 00:11:59 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:11:59 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:11:59 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:11:59 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:11:59 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:11:59 2015] [debug] 404 Not Found (0.029467s, 33.936/s)
+[Fri Jul 17 00:11:59 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:11:59 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:11:59 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:11:59 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:11:59 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:11:59 2015] [debug] 404 Not Found (0.008706s, 114.863/s)
+[Fri Jul 17 00:11:59 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:11:59 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:11:59 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:11:59 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:11:59 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:11:59 2015] [debug] 404 Not Found (0.009157s, 109.206/s)
+[Fri Jul 17 00:12:00 2015] [debug] GET "/images/avatar/small/tom.jpg"
+[Fri Jul 17 00:12:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:12:00 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:12:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:12:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:12:00 2015] [debug] 404 Not Found (0.010515s, 95.102/s)
+[Fri Jul 17 00:12:00 2015] [debug] GET "/images/avatar/small/matt.jpg"
+[Fri Jul 17 00:12:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:12:00 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:12:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:12:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:12:00 2015] [debug] 404 Not Found (0.007980s, 125.313/s)
+[Fri Jul 17 00:12:00 2015] [debug] GET "/images/avatar/small/christian.jpg"
+[Fri Jul 17 00:12:00 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 17 00:12:00 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 17 00:12:00 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 17 00:12:00 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 17 00:12:00 2015] [debug] 404 Not Found (0.007764s, 128.800/s)
