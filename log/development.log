@@ -1,0 +1,915 @@
+[Mon Jul 13 22:21:10 2015] [debug] Your secret passphrase needs to be changed
+[Mon Jul 13 22:21:10 2015] [debug] GET "/"
+[Mon Jul 13 22:21:10 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Mon Jul 13 22:21:10 2015] [debug] Rendering template "example/welcome.html.ep"
+[Mon Jul 13 22:21:10 2015] [debug] Rendering template "layouts/default.html.ep"
+[Mon Jul 13 22:21:10 2015] [debug] 200 OK (0.092390s, 10.824/s)
+[Mon Jul 13 22:21:10 2015] [debug] GET "/images/avatar/large/stevie.jpg"
+[Mon Jul 13 22:21:10 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Jul 13 22:21:10 2015] [debug] Template "not_found.html.ep" not found
+[Mon Jul 13 22:21:10 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Jul 13 22:21:10 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Jul 13 22:21:10 2015] [debug] 404 Not Found (0.035649s, 28.051/s)
+[Mon Jul 13 22:21:13 2015] [debug] GET "/images/avatar/large/stevie.jpg"
+[Mon Jul 13 22:21:13 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Jul 13 22:21:13 2015] [debug] Template "not_found.html.ep" not found
+[Mon Jul 13 22:21:13 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Jul 13 22:21:13 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Jul 13 22:21:13 2015] [debug] 404 Not Found (0.008029s, 124.549/s)
+[Mon Jul 13 22:22:46 2015] [debug] GET "/"
+[Mon Jul 13 22:22:46 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Mon Jul 13 22:22:46 2015] [debug] Rendering cached template "example/welcome.html.ep"
+[Mon Jul 13 22:22:46 2015] [debug] Rendering cached template "layouts/default.html.ep"
+[Mon Jul 13 22:22:46 2015] [debug] 200 OK (0.001697s, 589.275/s)
+[Mon Jul 13 22:22:46 2015] [debug] GET "/images/avatar/large/stevie.jpg"
+[Mon Jul 13 22:22:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Jul 13 22:22:46 2015] [debug] Template "not_found.html.ep" not found
+[Mon Jul 13 22:22:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Jul 13 22:22:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Jul 13 22:22:46 2015] [debug] 404 Not Found (0.008864s, 112.816/s)
+[Mon Jul 13 22:22:46 2015] [debug] GET "/images/avatar/large/stevie.jpg"
+[Mon Jul 13 22:22:46 2015] [debug] Template "not_found.development.html.ep" not found
+[Mon Jul 13 22:22:46 2015] [debug] Template "not_found.html.ep" not found
+[Mon Jul 13 22:22:46 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Mon Jul 13 22:22:46 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Mon Jul 13 22:22:46 2015] [debug] 404 Not Found (0.007900s, 126.582/s)
+[Mon Jul 13 23:20:44 2015] [debug] Your secret passphrase needs to be changed
+[Mon Jul 13 23:20:44 2015] [debug] GET "/"
+[Mon Jul 13 23:20:44 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Mon Jul 13 23:20:44 2015] [debug] Rendering template "example/welcome.html.ep"
+[Mon Jul 13 23:20:44 2015] [debug] Template "layouts/default.html.ep" not found
+[Mon Jul 13 23:20:44 2015] [debug] 200 OK (0.006077s, 164.555/s)
+[Mon Jul 13 23:20:53 2015] [debug] GET "/default"
+[Mon Jul 13 23:20:53 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:20:53 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Mon Jul 13 23:20:53 2015] [debug] 200 OK (0.004740s, 210.970/s)
+[Mon Jul 13 23:24:05 2015] [debug] Your secret passphrase needs to be changed
+[Mon Jul 13 23:24:05 2015] [debug] GET "/default"
+[Mon Jul 13 23:24:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:24:05 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Mon Jul 13 23:24:05 2015] [debug] 200 OK (0.007554s, 132.380/s)
+[Mon Jul 13 23:24:06 2015] [debug] GET "/default"
+[Mon Jul 13 23:24:06 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:24:06 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Mon Jul 13 23:24:06 2015] [debug] 200 OK (0.002301s, 434.594/s)
+[Mon Jul 13 23:27:01 2015] [debug] Your secret passphrase needs to be changed
+[Mon Jul 13 23:27:01 2015] [debug] GET "/default"
+[Mon Jul 13 23:27:01 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:27:01 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Mon Jul 13 23:27:01 2015] [debug] 200 OK (0.005962s, 167.729/s)
+[Mon Jul 13 23:27:28 2015] [debug] Your secret passphrase needs to be changed
+[Mon Jul 13 23:27:28 2015] [debug] GET "/default"
+[Mon Jul 13 23:27:28 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:27:28 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Mon Jul 13 23:27:28 2015] [debug] 200 OK (0.005364s, 186.428/s)
+[Mon Jul 13 23:27:47 2015] [debug] Your secret passphrase needs to be changed
+[Mon Jul 13 23:27:47 2015] [debug] GET "/default"
+[Mon Jul 13 23:27:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:27:47 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Mon Jul 13 23:27:47 2015] [debug] 200 OK (0.007669s, 130.395/s)
+[Mon Jul 13 23:27:47 2015] [debug] GET "/default"
+[Mon Jul 13 23:27:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Mon Jul 13 23:27:47 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Mon Jul 13 23:27:47 2015] [debug] 200 OK (0.001472s, 679.348/s)
+[Tue Jul 14 22:31:01 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:31:01 2015] [debug] GET "/"
+[Tue Jul 14 22:31:01 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Tue Jul 14 22:31:01 2015] [debug] Rendering template "example/welcome.html.ep"
+[Tue Jul 14 22:31:01 2015] [debug] Template "layouts/default.html.ep" not found
+[Tue Jul 14 22:31:01 2015] [debug] 200 OK (0.073335s, 13.636/s)
+[Tue Jul 14 22:31:08 2015] [debug] GET "/default"
+[Tue Jul 14 22:31:08 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:31:08 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 22:31:08 2015] [debug] 200 OK (0.014027s, 71.291/s)
+[Tue Jul 14 22:40:20 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:41:51 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:41:51 2015] [debug] GET "/default"
+[Tue Jul 14 22:41:51 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:41:51 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 22:41:51 2015] [debug] 200 OK (0.006082s, 164.420/s)
+[Tue Jul 14 22:42:14 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:42:14 2015] [debug] GET "/default"
+[Tue Jul 14 22:42:14 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:42:14 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 22:42:14 2015] [debug] 200 OK (0.005134s, 194.780/s)
+[Tue Jul 14 22:42:15 2015] [debug] GET "/default"
+[Tue Jul 14 22:42:15 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:42:15 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 22:42:15 2015] [debug] 200 OK (0.001356s, 737.463/s)
+[Tue Jul 14 22:42:16 2015] [debug] GET "/default"
+[Tue Jul 14 22:42:16 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:42:16 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 22:42:16 2015] [debug] 200 OK (0.001329s, 752.445/s)
+[Tue Jul 14 22:42:18 2015] [debug] GET "/default"
+[Tue Jul 14 22:42:18 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:42:18 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 22:42:18 2015] [debug] 200 OK (0.001356s, 737.463/s)
+[Tue Jul 14 22:42:37 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:42:37 2015] [debug] GET "/default"
+[Tue Jul 14 22:42:37 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:42:37 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 22:42:37 2015] [debug] 200 OK (0.007090s, 141.044/s)
+[Tue Jul 14 22:43:17 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:43:17 2015] [debug] GET "/default"
+[Tue Jul 14 22:43:17 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:43:17 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 22:43:17 2015] [debug] 200 OK (0.011341s, 88.176/s)
+[Tue Jul 14 22:43:20 2015] [debug] GET "/default"
+[Tue Jul 14 22:43:20 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:43:20 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 22:43:20 2015] [debug] 200 OK (0.002731s, 366.166/s)
+[Tue Jul 14 22:47:18 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 22:47:18 2015] [debug] GET "/default"
+[Tue Jul 14 22:47:18 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 22:47:18 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 22:47:18 2015] [debug] 200 OK (0.007116s, 140.528/s)
+[Tue Jul 14 23:10:16 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:10:16 2015] [debug] GET "/default"
+[Tue Jul 14 23:10:16 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:10:16 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:10:16 2015] [debug] 200 OK (0.007566s, 132.170/s)
+[Tue Jul 14 23:10:16 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:10:16 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:16 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:16 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:16 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:16 2015] [debug] 404 Not Found (0.029384s, 34.032/s)
+[Tue Jul 14 23:10:16 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:10:16 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:16 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:16 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:16 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:16 2015] [debug] 404 Not Found (0.007734s, 129.299/s)
+[Tue Jul 14 23:10:16 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:10:16 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:16 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:16 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:16 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:16 2015] [debug] 404 Not Found (0.007348s, 136.091/s)
+[Tue Jul 14 23:10:19 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:10:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:19 2015] [debug] 404 Not Found (0.008578s, 116.577/s)
+[Tue Jul 14 23:10:19 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:10:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:19 2015] [debug] 404 Not Found (0.010157s, 98.454/s)
+[Tue Jul 14 23:10:19 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:10:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:19 2015] [debug] 404 Not Found (0.009355s, 106.895/s)
+[Tue Jul 14 23:10:55 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:10:55 2015] [debug] GET "/default"
+[Tue Jul 14 23:10:55 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:10:55 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:10:55 2015] [debug] 200 OK (0.006923s, 144.446/s)
+[Tue Jul 14 23:10:56 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:56 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:56 2015] [debug] 404 Not Found (0.030712s, 32.561/s)
+[Tue Jul 14 23:10:56 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:56 2015] [debug] 404 Not Found (0.007386s, 135.391/s)
+[Tue Jul 14 23:10:56 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:56 2015] [debug] 404 Not Found (0.007458s, 134.084/s)
+[Tue Jul 14 23:10:56 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:56 2015] [debug] 404 Not Found (0.007264s, 137.665/s)
+[Tue Jul 14 23:10:56 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:56 2015] [debug] 404 Not Found (0.019062s, 52.460/s)
+[Tue Jul 14 23:10:56 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:10:56 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:10:56 2015] [debug] 404 Not Found (0.029395s, 34.019/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/default"
+[Tue Jul 14 23:11:02 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:11:02 2015] [debug] 200 OK (0.001535s, 651.466/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:02 2015] [debug] 404 Not Found (0.011243s, 88.944/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:02 2015] [debug] 404 Not Found (0.008026s, 124.595/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:02 2015] [debug] 404 Not Found (0.007426s, 134.662/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:02 2015] [debug] 404 Not Found (0.009397s, 106.417/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:02 2015] [debug] 404 Not Found (0.008091s, 123.594/s)
+[Tue Jul 14 23:11:02 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:02 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:02 2015] [debug] 404 Not Found (0.007406s, 135.026/s)
+[Tue Jul 14 23:11:03 2015] [debug] GET "/default"
+[Tue Jul 14 23:11:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:11:03 2015] [debug] 200 OK (0.001517s, 659.196/s)
+[Tue Jul 14 23:11:03 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:11:03 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:03 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:03 2015] [debug] 404 Not Found (0.010510s, 95.147/s)
+[Tue Jul 14 23:11:03 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:11:03 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:03 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:03 2015] [debug] 404 Not Found (0.007537s, 132.679/s)
+[Tue Jul 14 23:11:03 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:11:03 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:03 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:03 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:03 2015] [debug] 404 Not Found (0.007539s, 132.644/s)
+[Tue Jul 14 23:11:04 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:11:04 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:04 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:04 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:04 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:04 2015] [debug] 404 Not Found (0.014956s, 66.863/s)
+[Tue Jul 14 23:11:04 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:11:04 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:04 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:04 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:04 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:04 2015] [debug] 404 Not Found (0.017811s, 56.145/s)
+[Tue Jul 14 23:11:04 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:11:04 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:04 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:04 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:04 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:04 2015] [debug] 404 Not Found (0.014332s, 69.774/s)
+[Tue Jul 14 23:11:33 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:11:33 2015] [debug] GET "/default"
+[Tue Jul 14 23:11:33 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:11:33 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:11:33 2015] [debug] 200 OK (0.016223s, 61.641/s)
+[Tue Jul 14 23:11:33 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:33 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:33 2015] [debug] 404 Not Found (0.028346s, 35.278/s)
+[Tue Jul 14 23:11:33 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:33 2015] [debug] 404 Not Found (0.007466s, 133.941/s)
+[Tue Jul 14 23:11:33 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:33 2015] [debug] 404 Not Found (0.008887s, 112.524/s)
+[Tue Jul 14 23:11:33 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:33 2015] [debug] 404 Not Found (0.009830s, 101.729/s)
+[Tue Jul 14 23:11:33 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:33 2015] [debug] 404 Not Found (0.007949s, 125.802/s)
+[Tue Jul 14 23:11:33 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:11:33 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:11:33 2015] [debug] 404 Not Found (0.007268s, 137.589/s)
+[Tue Jul 14 23:14:14 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:14:14 2015] [debug] GET "/default"
+[Tue Jul 14 23:14:14 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:14:14 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:14:15 2015] [debug] 200 OK (0.009862s, 101.399/s)
+[Tue Jul 14 23:14:15 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:14:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:14:15 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:14:15 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:14:15 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:14:15 2015] [debug] 404 Not Found (0.030652s, 32.624/s)
+[Tue Jul 14 23:14:15 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:14:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:14:15 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:14:15 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:14:15 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:14:15 2015] [debug] 404 Not Found (0.007464s, 133.976/s)
+[Tue Jul 14 23:14:15 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:14:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:14:15 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:14:15 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:14:15 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:14:15 2015] [debug] 404 Not Found (0.007486s, 133.583/s)
+[Tue Jul 14 23:14:17 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:14:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:14:17 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:14:17 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:14:17 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:14:17 2015] [debug] 404 Not Found (0.021672s, 46.142/s)
+[Tue Jul 14 23:14:17 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:14:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:14:17 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:14:17 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:14:17 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:14:17 2015] [debug] 404 Not Found (0.007402s, 135.099/s)
+[Tue Jul 14 23:14:17 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:14:17 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:14:17 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:14:17 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:14:17 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:14:17 2015] [debug] 404 Not Found (0.007427s, 134.644/s)
+[Tue Jul 14 23:15:18 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:15:18 2015] [debug] GET "/default"
+[Tue Jul 14 23:15:18 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:15:18 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:15:18 2015] [debug] 200 OK (0.007536s, 132.696/s)
+[Tue Jul 14 23:15:18 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:15:18 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:15:18 2015] [debug] 404 Not Found (0.031794s, 31.452/s)
+[Tue Jul 14 23:15:18 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:15:18 2015] [debug] 404 Not Found (0.007464s, 133.976/s)
+[Tue Jul 14 23:15:18 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:15:18 2015] [debug] 404 Not Found (0.007308s, 136.836/s)
+[Tue Jul 14 23:15:18 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:15:18 2015] [debug] 404 Not Found (0.007546s, 132.521/s)
+[Tue Jul 14 23:15:18 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:15:18 2015] [debug] 404 Not Found (0.008244s, 121.300/s)
+[Tue Jul 14 23:15:18 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:15:18 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:15:18 2015] [debug] 404 Not Found (0.018922s, 52.849/s)
+[Tue Jul 14 23:18:43 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:18:43 2015] [debug] GET "/default"
+[Tue Jul 14 23:18:43 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:18:43 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:18:43 2015] [debug] 200 OK (0.006409s, 156.031/s)
+[Tue Jul 14 23:18:43 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:18:43 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:18:43 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:18:43 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:18:43 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:18:43 2015] [debug] 404 Not Found (0.028700s, 34.843/s)
+[Tue Jul 14 23:18:43 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:18:43 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:18:43 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:18:43 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:18:43 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:18:43 2015] [debug] 404 Not Found (0.007375s, 135.593/s)
+[Tue Jul 14 23:18:43 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:18:43 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:18:43 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:18:43 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:18:43 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:18:43 2015] [debug] 404 Not Found (0.007301s, 136.968/s)
+[Tue Jul 14 23:18:45 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:18:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:18:45 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:18:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:18:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:18:45 2015] [debug] 404 Not Found (0.011275s, 88.692/s)
+[Tue Jul 14 23:18:45 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:18:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:18:45 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:18:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:18:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:18:45 2015] [debug] 404 Not Found (0.007982s, 125.282/s)
+[Tue Jul 14 23:18:45 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:18:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:18:45 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:18:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:18:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:18:45 2015] [debug] 404 Not Found (0.011341s, 88.176/s)
+[Tue Jul 14 23:22:19 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:22:19 2015] [debug] GET "/default"
+[Tue Jul 14 23:22:19 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:22:19 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:22:19 2015] [debug] 200 OK (0.007139s, 140.076/s)
+[Tue Jul 14 23:22:19 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:22:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:22:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:22:19 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:22:19 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:22:19 2015] [debug] 404 Not Found (0.034734s, 28.790/s)
+[Tue Jul 14 23:22:19 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:22:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:22:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:22:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:22:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:22:19 2015] [debug] 404 Not Found (0.007482s, 133.654/s)
+[Tue Jul 14 23:22:19 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:22:19 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:22:19 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:22:19 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:22:19 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:22:19 2015] [debug] 404 Not Found (0.007357s, 135.925/s)
+[Tue Jul 14 23:22:26 2015] [debug] GET "/assets/images/wireframe/media-paragraph.png"
+[Tue Jul 14 23:22:26 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:22:26 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:22:26 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:22:26 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:22:26 2015] [debug] 404 Not Found (0.008691s, 115.062/s)
+[Tue Jul 14 23:22:26 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:22:26 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:22:26 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:22:26 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:22:26 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:22:26 2015] [debug] 404 Not Found (0.007929s, 126.119/s)
+[Tue Jul 14 23:22:26 2015] [debug] GET "/assets/images/wireframe/paragraph.png"
+[Tue Jul 14 23:22:26 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:22:26 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:22:26 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:22:26 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:22:26 2015] [debug] 404 Not Found (0.009031s, 110.730/s)
+[Tue Jul 14 23:27:39 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:27:39 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:39 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:39 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:39 2015] [debug] 200 OK (0.006698s, 149.298/s)
+[Tue Jul 14 23:27:39 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:39 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:39 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:39 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:39 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:39 2015] [debug] 404 Not Found (0.028404s, 35.206/s)
+[Tue Jul 14 23:27:41 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:41 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:41 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:41 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:41 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:42 2015] [debug] 404 Not Found (0.008177s, 122.294/s)
+[Tue Jul 14 23:27:45 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:45 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:45 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:45 2015] [debug] 200 OK (0.001894s, 527.983/s)
+[Tue Jul 14 23:27:45 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:45 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:45 2015] [debug] 404 Not Found (0.007933s, 126.056/s)
+[Tue Jul 14 23:27:45 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:45 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:45 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:45 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:45 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:45 2015] [debug] 404 Not Found (0.008083s, 123.716/s)
+[Tue Jul 14 23:27:47 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:47 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:47 2015] [debug] 200 OK (0.001438s, 695.410/s)
+[Tue Jul 14 23:27:47 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:47 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:47 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:47 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:47 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:47 2015] [debug] 404 Not Found (0.008831s, 113.237/s)
+[Tue Jul 14 23:27:47 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:47 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:47 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:47 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:47 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:47 2015] [debug] 404 Not Found (0.007581s, 131.909/s)
+[Tue Jul 14 23:27:48 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:48 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:48 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:48 2015] [debug] 200 OK (0.002534s, 394.633/s)
+[Tue Jul 14 23:27:48 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:48 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:48 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:48 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:48 2015] [debug] 404 Not Found (0.012846s, 77.845/s)
+[Tue Jul 14 23:27:48 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:48 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:48 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:48 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:48 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:48 2015] [debug] 404 Not Found (0.008510s, 117.509/s)
+[Tue Jul 14 23:27:49 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:49 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:49 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:49 2015] [debug] 200 OK (0.002290s, 436.681/s)
+[Tue Jul 14 23:27:49 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:49 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:49 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:49 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:49 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:49 2015] [debug] 404 Not Found (0.011993s, 83.382/s)
+[Tue Jul 14 23:27:49 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:49 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:49 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:49 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:49 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:49 2015] [debug] 404 Not Found (0.012546s, 79.707/s)
+[Tue Jul 14 23:27:50 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:50 2015] [debug] 200 OK (0.001709s, 585.138/s)
+[Tue Jul 14 23:27:50 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:50 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:50 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:50 2015] [debug] 404 Not Found (0.010485s, 95.374/s)
+[Tue Jul 14 23:27:50 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:50 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:50 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:50 2015] [debug] 404 Not Found (0.008119s, 123.168/s)
+[Tue Jul 14 23:27:50 2015] [debug] GET "/default"
+[Tue Jul 14 23:27:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:27:50 2015] [debug] 200 OK (0.001569s, 637.349/s)
+[Tue Jul 14 23:27:50 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:50 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:50 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:50 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:50 2015] [debug] 404 Not Found (0.008321s, 120.178/s)
+[Tue Jul 14 23:27:51 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:27:51 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:27:51 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:27:51 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:27:51 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:27:51 2015] [debug] 404 Not Found (0.008402s, 119.019/s)
+[Tue Jul 14 23:30:13 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:30:13 2015] [debug] GET "/default"
+[Tue Jul 14 23:30:13 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:30:13 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:30:13 2015] [debug] 200 OK (0.005570s, 179.533/s)
+[Tue Jul 14 23:30:13 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:30:13 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:30:13 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:30:13 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:30:13 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:30:13 2015] [debug] 404 Not Found (0.032997s, 30.306/s)
+[Tue Jul 14 23:30:15 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:30:15 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:30:15 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:30:15 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:30:15 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:30:15 2015] [debug] 404 Not Found (0.009045s, 110.558/s)
+[Tue Jul 14 23:30:39 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:30:39 2015] [debug] GET "/default"
+[Tue Jul 14 23:30:39 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:30:39 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:30:39 2015] [debug] 200 OK (0.005233s, 191.095/s)
+[Tue Jul 14 23:30:39 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:30:39 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:30:39 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:30:39 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:30:39 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:30:39 2015] [debug] 404 Not Found (0.030785s, 32.483/s)
+[Tue Jul 14 23:30:39 2015] [debug] GET "/assets/images/logo.png"
+[Tue Jul 14 23:30:39 2015] [debug] Template "not_found.development.html.ep" not found
+[Tue Jul 14 23:30:39 2015] [debug] Template "not_found.html.ep" not found
+[Tue Jul 14 23:30:39 2015] [debug] Rendering cached inline template "fd403ab55a4c875e35b42428816134c7"
+[Tue Jul 14 23:30:39 2015] [debug] Rendering cached inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Tue Jul 14 23:30:39 2015] [debug] 404 Not Found (0.008053s, 124.177/s)
+[Tue Jul 14 23:31:07 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:31:07 2015] [debug] GET "/default"
+[Tue Jul 14 23:31:07 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:31:07 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:31:07 2015] [debug] 200 OK (0.004539s, 220.313/s)
+[Tue Jul 14 23:31:37 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:31:37 2015] [debug] GET "/default"
+[Tue Jul 14 23:31:37 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:31:37 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:31:37 2015] [debug] 200 OK (0.004640s, 215.517/s)
+[Tue Jul 14 23:33:48 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:33:48 2015] [debug] GET "/default"
+[Tue Jul 14 23:33:48 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:33:48 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:33:48 2015] [debug] 200 OK (0.005075s, 197.044/s)
+[Tue Jul 14 23:33:53 2015] [debug] GET "/default"
+[Tue Jul 14 23:33:53 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:33:53 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:33:53 2015] [debug] 200 OK (0.001576s, 634.518/s)
+[Tue Jul 14 23:33:54 2015] [debug] GET "/default"
+[Tue Jul 14 23:33:54 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:33:54 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:33:54 2015] [debug] 200 OK (0.001511s, 661.813/s)
+[Tue Jul 14 23:35:28 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:35:28 2015] [debug] GET "/default"
+[Tue Jul 14 23:35:28 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:35:28 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:35:28 2015] [debug] 200 OK (0.004542s, 220.167/s)
+[Tue Jul 14 23:35:47 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:35:47 2015] [debug] GET "/default"
+[Tue Jul 14 23:35:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:35:47 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:35:47 2015] [debug] 200 OK (0.005256s, 190.259/s)
+[Tue Jul 14 23:35:48 2015] [debug] GET "/default"
+[Tue Jul 14 23:35:48 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:35:48 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:35:48 2015] [debug] 200 OK (0.001530s, 653.595/s)
+[Tue Jul 14 23:36:54 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:36:54 2015] [debug] GET "/default"
+[Tue Jul 14 23:36:54 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:36:54 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:36:54 2015] [debug] 200 OK (0.005175s, 193.237/s)
+[Tue Jul 14 23:38:24 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:38:24 2015] [debug] GET "/default"
+[Tue Jul 14 23:38:24 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:38:24 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:38:24 2015] [debug] 200 OK (0.005376s, 186.012/s)
+[Tue Jul 14 23:40:24 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:40:24 2015] [debug] GET "/default"
+[Tue Jul 14 23:40:24 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:40:24 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:40:24 2015] [debug] 200 OK (0.006745s, 148.258/s)
+[Tue Jul 14 23:42:09 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:42:09 2015] [debug] GET "/default"
+[Tue Jul 14 23:42:09 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:42:09 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:42:09 2015] [debug] 200 OK (0.005581s, 179.179/s)
+[Tue Jul 14 23:44:01 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:44:01 2015] [debug] GET "/default"
+[Tue Jul 14 23:44:01 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:44:01 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:44:01 2015] [debug] 200 OK (0.004929s, 202.881/s)
+[Tue Jul 14 23:44:47 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:44:47 2015] [debug] GET "/default"
+[Tue Jul 14 23:44:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:44:47 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:44:47 2015] [debug] 200 OK (0.004670s, 214.133/s)
+[Tue Jul 14 23:45:05 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:45:05 2015] [debug] GET "/default"
+[Tue Jul 14 23:45:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:45:05 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:45:05 2015] [debug] 200 OK (0.004664s, 214.408/s)
+[Tue Jul 14 23:45:47 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:45:47 2015] [debug] GET "/default"
+[Tue Jul 14 23:45:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:45:47 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:45:47 2015] [debug] 200 OK (0.005222s, 191.498/s)
+[Tue Jul 14 23:46:13 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:46:13 2015] [debug] GET "/default"
+[Tue Jul 14 23:46:13 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:46:13 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:46:13 2015] [debug] 200 OK (0.005410s, 184.843/s)
+[Tue Jul 14 23:46:24 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:46:24 2015] [debug] GET "/default"
+[Tue Jul 14 23:46:24 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:46:24 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:46:24 2015] [debug] 200 OK (0.004588s, 217.960/s)
+[Tue Jul 14 23:46:36 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:46:36 2015] [debug] GET "/default"
+[Tue Jul 14 23:46:36 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:46:36 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:46:36 2015] [debug] 200 OK (0.004905s, 203.874/s)
+[Tue Jul 14 23:46:37 2015] [debug] GET "/default"
+[Tue Jul 14 23:46:37 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:46:37 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:46:37 2015] [debug] 200 OK (0.001367s, 731.529/s)
+[Tue Jul 14 23:46:38 2015] [debug] GET "/default"
+[Tue Jul 14 23:46:38 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:46:38 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:46:38 2015] [debug] 200 OK (0.001611s, 620.732/s)
+[Tue Jul 14 23:48:54 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:48:54 2015] [debug] GET "/default"
+[Tue Jul 14 23:48:54 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:48:54 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:48:54 2015] [debug] 200 OK (0.006206s, 161.134/s)
+[Tue Jul 14 23:49:19 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:49:19 2015] [debug] GET "/default"
+[Tue Jul 14 23:49:19 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:49:19 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:49:19 2015] [debug] 200 OK (0.005145s, 194.363/s)
+[Tue Jul 14 23:49:31 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:49:31 2015] [debug] GET "/default"
+[Tue Jul 14 23:49:31 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:49:31 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:49:31 2015] [debug] 200 OK (0.009091s, 109.999/s)
+[Tue Jul 14 23:49:49 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:49:49 2015] [debug] GET "/default"
+[Tue Jul 14 23:49:49 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:49:49 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:49:49 2015] [debug] 200 OK (0.004539s, 220.313/s)
+[Tue Jul 14 23:51:19 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:51:19 2015] [debug] GET "/default"
+[Tue Jul 14 23:51:19 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:51:19 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:51:19 2015] [debug] 200 OK (0.006630s, 150.830/s)
+[Tue Jul 14 23:51:34 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:51:34 2015] [debug] GET "/default"
+[Tue Jul 14 23:51:34 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:51:34 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:51:34 2015] [debug] 200 OK (0.004620s, 216.450/s)
+[Tue Jul 14 23:51:50 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:51:50 2015] [debug] GET "/default"
+[Tue Jul 14 23:51:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:51:50 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:51:50 2015] [debug] 200 OK (0.004682s, 213.584/s)
+[Tue Jul 14 23:52:07 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:52:07 2015] [debug] GET "/default"
+[Tue Jul 14 23:52:07 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:52:07 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:52:07 2015] [debug] 200 OK (0.006020s, 166.113/s)
+[Tue Jul 14 23:52:21 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:52:21 2015] [debug] GET "/default"
+[Tue Jul 14 23:52:21 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:52:21 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:52:21 2015] [debug] 200 OK (0.004589s, 217.912/s)
+[Tue Jul 14 23:53:09 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:53:09 2015] [debug] GET "/default"
+[Tue Jul 14 23:53:09 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:53:09 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:53:09 2015] [debug] 200 OK (0.005005s, 199.800/s)
+[Tue Jul 14 23:54:23 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:54:23 2015] [debug] GET "/default"
+[Tue Jul 14 23:54:23 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:54:23 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:54:23 2015] [debug] 200 OK (0.004918s, 203.335/s)
+[Tue Jul 14 23:54:25 2015] [debug] GET "/default"
+[Tue Jul 14 23:54:25 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:54:25 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Tue Jul 14 23:54:25 2015] [debug] 200 OK (0.002443s, 409.333/s)
+[Tue Jul 14 23:55:33 2015] [debug] Your secret passphrase needs to be changed
+[Tue Jul 14 23:55:33 2015] [debug] GET "/default"
+[Tue Jul 14 23:55:33 2015] [debug] Controller "BBS::Layouts" does not exist
+[Tue Jul 14 23:55:33 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Tue Jul 14 23:55:33 2015] [debug] 200 OK (0.005230s, 191.205/s)
+[Wed Jul 15 00:00:27 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:00:27 2015] [debug] GET "/default"
+[Wed Jul 15 00:00:27 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:00:27 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:00:27 2015] [debug] 200 OK (0.006016s, 166.223/s)
+[Wed Jul 15 00:00:33 2015] [debug] GET "/default"
+[Wed Jul 15 00:00:33 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:00:33 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:00:33 2015] [debug] 200 OK (0.001610s, 621.118/s)
+[Wed Jul 15 00:04:50 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:04:50 2015] [debug] GET "/default"
+[Wed Jul 15 00:04:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:04:50 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:04:50 2015] [debug] 200 OK (0.008498s, 117.675/s)
+[Wed Jul 15 00:04:53 2015] [debug] GET "/default"
+[Wed Jul 15 00:04:53 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:04:53 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:04:53 2015] [debug] 200 OK (0.001587s, 630.120/s)
+[Wed Jul 15 00:06:35 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:06:35 2015] [debug] GET "/default"
+[Wed Jul 15 00:06:35 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:06:35 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:06:35 2015] [debug] 200 OK (0.005815s, 171.969/s)
+[Wed Jul 15 00:06:58 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:06:58 2015] [debug] GET "/default"
+[Wed Jul 15 00:06:58 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:06:58 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:06:58 2015] [debug] 200 OK (0.014230s, 70.274/s)
+[Wed Jul 15 00:07:03 2015] [debug] GET "/default"
+[Wed Jul 15 00:07:03 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:07:03 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:07:03 2015] [debug] 200 OK (0.001670s, 598.802/s)
+[Wed Jul 15 00:07:04 2015] [debug] GET "/default"
+[Wed Jul 15 00:07:04 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:07:04 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:07:04 2015] [debug] 200 OK (0.001650s, 606.061/s)
+[Wed Jul 15 00:07:05 2015] [debug] GET "/default"
+[Wed Jul 15 00:07:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:07:05 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:07:05 2015] [debug] 200 OK (0.001817s, 550.358/s)
+[Wed Jul 15 00:07:41 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:07:41 2015] [debug] GET "/default"
+[Wed Jul 15 00:07:41 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:07:41 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:07:41 2015] [debug] 200 OK (0.006145s, 162.734/s)
+[Wed Jul 15 00:08:13 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:08:13 2015] [debug] GET "/default"
+[Wed Jul 15 00:08:13 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:08:13 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:08:13 2015] [debug] 200 OK (0.006261s, 159.719/s)
+[Wed Jul 15 00:08:17 2015] [debug] GET "/default"
+[Wed Jul 15 00:08:17 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:08:17 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:08:17 2015] [debug] 200 OK (0.001664s, 600.962/s)
+[Wed Jul 15 00:09:07 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:09:07 2015] [debug] GET "/default"
+[Wed Jul 15 00:09:07 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:09:07 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:09:07 2015] [debug] 200 OK (0.005547s, 180.278/s)
+[Wed Jul 15 00:09:47 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:09:47 2015] [debug] GET "/default"
+[Wed Jul 15 00:09:47 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:09:47 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:09:47 2015] [debug] 200 OK (0.006864s, 145.688/s)
+[Wed Jul 15 00:11:15 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:11:15 2015] [debug] GET "/default"
+[Wed Jul 15 00:11:15 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:11:15 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:11:15 2015] [debug] 200 OK (0.010339s, 96.721/s)
+[Wed Jul 15 00:11:48 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:11:48 2015] [debug] GET "/default"
+[Wed Jul 15 00:11:48 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:11:48 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:11:48 2015] [debug] 200 OK (0.006520s, 153.374/s)
+[Wed Jul 15 00:11:49 2015] [debug] GET "/default"
+[Wed Jul 15 00:11:49 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:11:49 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:11:49 2015] [debug] 200 OK (0.001623s, 616.143/s)
+[Wed Jul 15 00:11:50 2015] [debug] GET "/default"
+[Wed Jul 15 00:11:50 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:11:50 2015] [debug] Rendering cached template "layouts/frame.html.ep"
+[Wed Jul 15 00:11:50 2015] [debug] 200 OK (0.001381s, 724.113/s)
+[Wed Jul 15 00:12:44 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:12:44 2015] [debug] GET "/default"
+[Wed Jul 15 00:12:44 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:12:44 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:12:44 2015] [debug] 200 OK (0.006070s, 164.745/s)
+[Wed Jul 15 00:21:05 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:21:05 2015] [debug] GET "/default"
+[Wed Jul 15 00:21:05 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:21:05 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:21:05 2015] [debug] 200 OK (0.006577s, 152.045/s)
+[Wed Jul 15 00:21:27 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:21:27 2015] [debug] GET "/default"
+[Wed Jul 15 00:21:27 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:21:27 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:21:27 2015] [debug] 200 OK (0.006657s, 150.218/s)
+[Wed Jul 15 00:22:38 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:22:38 2015] [debug] GET "/default"
+[Wed Jul 15 00:22:38 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:22:38 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:22:38 2015] [debug] 200 OK (0.007398s, 135.172/s)
+[Wed Jul 15 00:23:02 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:23:02 2015] [debug] GET "/default"
+[Wed Jul 15 00:23:02 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:23:02 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:23:02 2015] [debug] 200 OK (0.011711s, 85.390/s)
+[Wed Jul 15 00:23:40 2015] [debug] Your secret passphrase needs to be changed
+[Wed Jul 15 00:23:40 2015] [debug] GET "/default"
+[Wed Jul 15 00:23:40 2015] [debug] Controller "BBS::Layouts" does not exist
+[Wed Jul 15 00:23:40 2015] [debug] Rendering template "layouts/frame.html.ep"
+[Wed Jul 15 00:23:40 2015] [debug] 200 OK (0.006388s, 156.544/s)

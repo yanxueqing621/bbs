@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title><%= title %></title>
+    <script type='text/javascript' src='http://code.jquery.com/jquery-latest.js'></script>
+    <script src="Semantic-UI-1.11.4/dist/semantic.min.js"></script>
+    <link rel='stylesheet' type='text/css' href='css/signin.css'>
+    <link rel='stylesheet' type='text/css' href='Semantic-UI-1.11.4/dist/semantic.min.css' />
+  </head>
+  <body>
+    <div class='ui container'>
+      <h3 class='ui top attached aligned center header'> 登录系统 </h3>
+      <div class='ui bottom attached segment form'>
+          <div class='required field'>
+            <label>username:</label>
+            <div class='ui left icon input'>
+              <input type='text' name='userName'></input>
+              <i class='user icon'></i>
+              <div class='ui corner label'>
+                <i class='icon asterisk'></i>
+              </div>
+            </div>
+          </div>
+          <div class='required field'>
+            <label>password:</label>
+            <div class='ui left icon input'>
+              <input type='password' name='password'></input>
+              <i class='lock icon'></i>
+              <div class='ui corner label'>
+                <i class='icon asterisk'></i>
+              </div>
+            </div>
+          </div>
+          <div class='inline field'>
+            <div class='required inline field'>
+              <div class='ui checkbox'>
+                <input type='checkbox'>
+                <label> I agree to the terms and conditions </label>
+              </div>
+            </div>
+          </div>
+          <br/>
+          <div class='ui three fields'>
+            <div class='ui field'>
+            </div>
+            <div class='ui field'>
+              <div class='ui teal button'>Signin</div>
+            </div>
+            <div class='ui field'>
+            </div>
+
+          </div>
+
+      </div>
+    </div>
+  </body>
+</html>
