@@ -1,4 +1,5 @@
-% layout 'frame';                                                                                                                                      
+% layout 'frame'; 
+
 <div id='header' class='row'>
   <div class='sixteen wide column'>
     <div class='ui left floated segment' style="margin:0px;padding:0px">
@@ -12,40 +13,29 @@
     </div>
   </div>
 </div>
+
 <div class='row'>
-  <div class='four wide column'>
-    <h5 class="ui top attached header">最新帖子</h5>
-    <div class="ui attached segment">
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-    </div>
-  </div>
-  <div class='four wide column'>
-    <h5 class="ui top attached header">最新回复</h5>
-    <div class="ui attached segment">
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-    </div>
-  </div>
-  <div class='four wide column'>
-    <h5 class="ui top attached header">本周热门</h5>
-    <div class="ui attached segment">
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-    </div>
-  </div>
-  <div class='four wide column'>
-    <h5 class="ui top attached header">新会员</h5>
-    <div class="ui attached segment">
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      aaaaaaaaaaaaa</br>
-    </div>
-  </div>
+  % use List::Util qw/pairs/;
+  % my @title2variable = (
+  %   'topics' => '最新帖子',
+  %   'replys' => '最新回复',
+  %   'hots'   => '本周热门',
+  %   'users'  => '新会员',
+  % );
+  % for my $pair(pairs @title2variable){
+  %   my ( $key, $value) =  @$pair;
+      <div class='four wide column'>
+        <h5 class="ui top attached header"> <%= $value %></h5>
+        <div class="ui attached segment">
+          <ol class="ui list">
+            % my $topic = $result->{newest}->{$key};
+            % for(my $i=1; $i<=10; $i++){
+                <li><%=  " " .$topic->[$i-1] %> </li>
+            % }
+          </ol>
+        </div>
+      </div>
+  % }
 </div>
 
 <div class='row'>
@@ -57,40 +47,115 @@
         <div class="item">
           <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
           <div class="content">
-            <div class="header">Tom</div>
-            Top Contributor test heeloaaaaaaaa
+            <h5 class='ui header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
           </div>
         </div>
         <div class="item">
           <img class="ui avatar image" src="/images/avatar/small/christian.jpg">
           <div class="content">
-            <div class="header">Christian Rocha</div>
-            Admin
+            <h5 class='ui blue header'>闲谈杂论</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
           </div>
         </div>
         <div class="item">
           <img class="ui avatar image" src="/images/avatar/small/matt.jpg">
           <div class="content">
-            <div class="header">Matt</div>
-            Top Rated User
+            <h5 class='ui blue header'>站务处理</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
           </div>
         </div>
       </div>
+    </div>
 
-    </div>
     <h5 class="ui attached header">Mojolicious交流区</h5>
-    <div class="ui attached segment">
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p>aaaaaaaaaaaaa</p>
-      <p></p>
+    <div class="ui attached segment" style='padding:30px 60px'>
+      <div class="ui big horizontal very relaxed list">
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+      </div>
+      <div class="ui big horizontal very relaxed list">
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+      </div>
     </div>
+
     <h5 class="ui attached header">其他交流区</h5>
-    <div class="ui attached segment">
-      <p></p>
+    <div class="ui attached segment" style='padding:30px 60px'>
+      <div class="ui big horizontal very relaxed list">
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+        <div class="item">
+          <img class="ui avatar image" src="/images/avatar/small/tom.jpg">
+          <div class="content">
+            <h5 class='ui blue header'>新手报道</h5>
+            <font size='2'>主题: 1290, 帖数: 1万 </font> <br/> 
+            <font size='2'>最后发表: 2015-6-22 21:34 </font>
+          </div>
+        </div>
+      </div>
     </div>
+
   </div>
 </div>            

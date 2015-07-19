@@ -27,9 +27,9 @@ my $board_conf = {
   abstract => "this is this board's  introduction",
 };
 my $user1 = $users->create($user_conf)->save;
-my $board1 = $boards->create($board_conf)->save;
-my $topic1 = $board1->add_topics({id=>1, author => 'zhangsan', title => "how to ...", content => 'aa...aa'});
-$topic1->add_replies( {content => 'answer is .....', goodCount => '3'});
+my $board1 = $boards->create($board_conf);
+my $topic1 = $board1->add_topics({author => 'zhangsan', title => "how to ...", content => 'aa...aa'});
+$topic1->add_replys( {content => 'answer is .....', goodCount => '3'})->save;
 
 #say Dumper $user1->data;
 
