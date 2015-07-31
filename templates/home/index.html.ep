@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to the perl bbs </title>
+    <link rel='stylesheet' type='text/css' href='Semantic-UI-2.0.7/dist/semantic.min.css'>
+    <script src='Semantic-UI-2.0.7/dist/jquery.js'></script>
+    <script src='Semantic-UI-2.0.7/dist/semantic.min.js'></script>
+  </head>
+
+  <body>
+    <div class='ui fixed inverted menu'>
+      <div class='ui container'>
+        <div class='header item' href='#'><img class='logo' src='images/logo.png'></img>Project name</div>
+        <a class='item' href='#'>Home</a>
+        <a href="#" class="ui simple dropdown item">
+          Dropdown <i class="dropdown icon"></i>
+          <div class="menu">
+            <div class="item">Link Item</div>
+            <div class="item">Link Item</div>
+            <div class="divider"></div>
+            <div class="header">Header Item</div>
+            <div class="item">
+              <i class="dropdown icon"></i>
+              Sub Menu
+              <div class="menu">
+                <div class="item">Link Item</div>
+                <div class="item">Link Item</div>
+              </div>
+            </div>
+            <div class="item">Link Item</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </body>
+</html>

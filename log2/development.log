@@ -1,0 +1,30 @@
+[Fri Jul 31 18:50:59 2015] [debug] Your secret passphrase needs to be changed
+[Fri Jul 31 18:50:59 2015] [debug] GET "/"
+[Fri Jul 31 18:50:59 2015] [debug] Routing to controller "BBS::Controller::Example" and action "welcome"
+[Fri Jul 31 18:50:59 2015] [debug] Rendering template "example/welcome.html.ep"
+[Fri Jul 31 18:50:59 2015] [debug] Rendering template "layouts/default.html.ep"
+[Fri Jul 31 18:50:59 2015] [debug] 200 OK (0.004222s, 236.855/s)
+[Fri Jul 31 18:51:03 2015] [debug] GET "/index.xml"
+[Fri Jul 31 18:51:03 2015] [debug] Routing to controller "BBS::Controller::Home" and action "index"
+[Fri Jul 31 18:51:03 2015] [debug] Template "home/index.xml.ep" not found
+[Fri Jul 31 18:51:03 2015] [debug] Template "not_found.development.xml.ep" not found
+[Fri Jul 31 18:51:03 2015] [debug] Template "not_found.xml.ep" not found
+[Fri Jul 31 18:51:03 2015] [debug] Template "not_found.development.html.ep" not found
+[Fri Jul 31 18:51:03 2015] [debug] Template "not_found.html.ep" not found
+[Fri Jul 31 18:51:03 2015] [debug] Rendering inline template "fd403ab55a4c875e35b42428816134c7"
+[Fri Jul 31 18:51:03 2015] [debug] Rendering inline template "dd85456cf9f44e1e43bebae130a7f9df"
+[Fri Jul 31 18:51:03 2015] [debug] 404 Not Found (0.019120s, 52.301/s)
+[Fri Jul 31 18:51:08 2015] [debug] GET "/index"
+[Fri Jul 31 18:51:08 2015] [debug] Routing to controller "BBS::Controller::Home" and action "index"
+[Fri Jul 31 18:51:08 2015] [debug] Rendering template "home/index.html.ep"
+[Fri Jul 31 18:51:08 2015] [debug] 200 OK (0.001141s, 876.424/s)
+[Fri Jul 31 19:04:17 2015] [debug] Your secret passphrase needs to be changed
+[Fri Jul 31 19:04:17 2015] [debug] GET "/index"
+[Fri Jul 31 19:04:17 2015] [debug] Routing to controller "BBS::Controller::Home" and action "index"
+[Fri Jul 31 19:04:17 2015] [debug] Rendering template "home/index.html.ep"
+[Fri Jul 31 19:04:17 2015] [debug] 200 OK (0.002859s, 349.773/s)
+[Fri Jul 31 19:05:14 2015] [debug] Your secret passphrase needs to be changed
+[Fri Jul 31 19:05:14 2015] [debug] GET "/index"
+[Fri Jul 31 19:05:14 2015] [debug] Routing to controller "BBS::Controller::Home" and action "index"
+[Fri Jul 31 19:05:14 2015] [debug] Rendering template "home/index.html.ep"
+[Fri Jul 31 19:05:14 2015] [debug] 200 OK (0.003097s, 322.893/s)
