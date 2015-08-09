@@ -1,0 +1,23 @@
+---
+layout     : 'blank'
+css        : 'hotfix'
+standalone : true
+
+title      : 'Test Page'
+type       : 'Library'
+---
+
+<!-- TEST JS HERE !-->
+<script>
+$(document).ready(function() {
+});
+</script>
+
+<!-- TEST CSS HERE !-->
+<style type="text/css">
+</style>
+
+<div class="ui container" style="padding-top: 2em;">
+
+</div>
+</body>

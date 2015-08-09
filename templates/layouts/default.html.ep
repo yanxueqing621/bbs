@@ -1,5 +1,67 @@
 <!DOCTYPE html>
 <html>
-  <head><title><%= title %></title></head>
-  <body><%= content %></body>
+  <head>
+    <title> <%= $title %> </title>
+    <link rel='stylesheet' type='text/css' href='Semantic-UI-2.0.7/dist/semantic.min.css'>
+    <link rel='stylesheet' type='text/css' href='css/index.css'>
+    <script src='Semantic-UI-2.0.7/dist/jquery.js'></script>
+    <script src='Semantic-UI-2.0.7/dist/semantic.min.js'></script>
+  </head>
+
+  <body>
+    <!-- this is menu -->
+    <div class='ui fixed blue inverted borderless menu'>
+      <div class='ui container'>
+        <div class='header item' href='#'>
+          <h3 class='logo'>MOJO论坛</h3>
+        </div>
+        <div class='ui search item' >
+          <div class='ui icon input'>
+            <input placeholder='Search...' type='text'>
+            <i class='search icon'></i>
+          </div>
+        </div>
+        <a class='item' href='#'>问答</a>
+        <a class='item' href='#'>文章</a>
+        <a class='item' href='#'>活动</a>
+        <a class='item' href='#'>榜单</a>
+        <div class='right menu'>
+          <div class='item'>
+            <div class='ui primary button'>立即登陆</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- this is body -->
+    <div class='ui main grid container'>
+      <!-- main content -->
+      <div class='ui twelve wide column'>
+        %= content
+      </div>
+
+      <!-- right content -->
+      <div class='ui four wide column'>
+        %= content 'right'
+      </div>
+    </div>
+
+    <!-- this is footer content -->
+    <div class='ui footer container'>
+      <div class='ui divider'></div>
+      <div class='ui middle aligned divided list'> 
+        <div class='item'>
+          <div class='right floated content'>
+            <div class='ui horizontal bulleted link list'> 
+              <a class="item" href="#">Site Map</a>
+              <a class="item" href="#">Contact Us</a>
+              <a class="item" href="#">Terms and Conditions</a>
+              <a class="item" href="#">Privacy Policy</a>
+            </div>
+          </div>
+          <span>©2015 mojo bbs</span>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
