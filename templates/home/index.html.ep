@@ -1,12 +1,106 @@
 <!DOCTYPE html>
 % layout 'default', title => 'home page';
 
-<div>helloword</div>
+<!-- main body -->
+<p class='question'>
+ <font size='5'>开发时遇到了问题？</font>
+ <a class="ui big blue label"><font size="4">提问问题</font></a>
+</p>
+
+<div class='ui celled list'>
+<div class='item'>
+ <a class="ui big white label" style='padding:4px 8px; text-align:center;' >
+   <span style="font-size:14px">11</span>
+   <br/>
+   <span style="font-size:14px">浏览</span>
+ </a>
+ <div class="content">
+      <div class="header">Snickerdoodle</div>
+      An excellent companion
+ </div>
+</div>
+</div>
+
+
+<br/>
+
+<div class="ui top attached tabular menu">
+  <a class="active item" data-tab="newest">最新的</a>
+  <a class="item" data-tab="hotest">热门的</a>
+  <a class="item" data-tab="unanswer">未回答</a>
+</div>
+<div class="ui bottom attached active tab segment" data-tab="newest">
+  最新内容
+</div>
+<div class="ui bottom attached tab segment" data-tab="hotest">
+  热门的
+</div>
+<div class="ui bottom attached tab segment" data-tab="unanswer">
+  未回答
+</div>
+
+
+<!-- right body -->
 
 % content_for right => begin
-  test2
+<!-- 热门标签 -->
+<h3>热门标签</h3>
+<div class="ui green labels">
+  <a class="ui label">
+    Fun 
+  </a>
+  <a class="ui label">
+    Happy new year
+  </a>
+  <a class="ui label">
+    Smart iphone
+  <a class="ui label">
+    Fun 
+  </a>
+  <a class="ui label">
+    Happy new year
+    <div class="detail">22</div>
+  </a>
+  <a class="ui label">
+    Smart iphone
+  <a class="ui label">
+    Fun 
+  </a>
+  <a class="ui label">
+    Happy new year
+  </a>
+  <a class="ui label">
+    Smart iphone
+  </a>
+  <a class="ui label">
+    Insane
+  </a>
+  <a class="ui label">
+    Exciting
+  </a>
+</div>
+
+<!-- 最近热门 -->
+<div class='ui divider'></div>
+<h3>最近热门</h3>
+<div>
+填充的内容
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</div>
+
+
 % end
-<div>helloword</div>
-% content_for right => begin
-  test1
-% end
+
+<script>
+$(document).ready(function(){
+  $('.menu .item')
+  .tab()
+;
+});
+
+</script>

@@ -13,6 +13,7 @@ field name => ( isa => Str );
 field age => ( isa => Int  );
 field birthDay => ( isa => Int );
 field gender => ( isa => Enum[qw/male female/] );
+field reputation => ( isa => Int, builder => sub { 0 } );
 field role => ( 
   isa => Enum[qw/admin linux mojolicious member/],
   builder => sub { 'normal' } 
