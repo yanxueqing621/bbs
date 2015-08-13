@@ -6,6 +6,7 @@ use Types::Standard qw/Str Int/;
 field content => ( isa => Str );
 field goodCount => ( isa => Int, builder => sub { 0 } );
 field createTime => ( isa => Int, builder => sub { time } );
+field accept => ( isa => Int );   #  1:被接受
 
 belongs_to topic => 'BBS::Mandel::Topic';
 belongs_to user => "BBS::Mandel::User";

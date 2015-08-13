@@ -7,34 +7,118 @@
  <a class="ui big blue label"><font size="4">提问问题</font></a>
 </p>
 
-<div class='ui celled list'>
-<div class='item'>
- <a class="ui big white label" style='padding:4px 8px; text-align:center;' >
-   <span style="font-size:14px">11</span>
-   <br/>
-   <span style="font-size:14px">浏览</span>
- </a>
- <div class="content">
-      <div class="header">Snickerdoodle</div>
-      An excellent companion
- </div>
-</div>
-</div>
-
-
-<br/>
-
 <div class="ui top attached tabular menu">
-  <a class="active item" data-tab="newest">最新的</a>
-  <a class="item" data-tab="hotest">热门的</a>
+  <a class="item" data-tab="newest">最新的</a>
+  <a class="active item" data-tab="hotest">热门的</a>
   <a class="item" data-tab="unanswer">未回答</a>
 </div>
-<div class="ui bottom attached active tab segment" data-tab="newest">
-  最新内容
+
+<div class="ui bottom attached tab segment" data-tab="newest">
+newest
 </div>
-<div class="ui bottom attached tab segment" data-tab="hotest">
-  热门的
+
+<div class="ui bottom attached tab active segment" data-tab="hotest">
+  <div class="ui divided list">
+
+    <div class='item'>
+      <div class='ui horizontal list'>
+        <div class='item'>
+          <a class='ui label'>
+            <div style="text-align:center;line-height:140%">
+              <span style="font-size:14px">11</span>
+              <br/>
+              <span style="font-size:13px">回答</span> 
+            </div>
+          </a>
+        </div>
+        <div class='item'>
+          <a class='ui label'>
+            <div style="text-align:center;line-height:140%">
+              <span style="font-size:14px">11</span>
+              <br/>
+              <span style="font-size:13px">浏览</span>
+            </div>
+          </a>
+        </div>
+        <div class='item'>
+            <div style="line-height:180%;">
+              <a href=''><span style='color:gray;'>作者</span></a> &nbsp &nbsp
+              <a href=''><span style='color:gray;'>发表事件</span></a> <br/>
+              <a href=''><span style='font-size:17px;color:black;'><b>发表的题目使设计发的sa</b></span></a>
+              <a class="ui small orange label">Orange</a> 
+              <a class="ui small orange label">Orange</a> 
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <div class='item'>
+      <div class='ui horizontal list'>
+        <div class='item'>
+          <a class='ui label'>
+            <div style="text-align:center;line-height:140%">
+              <span style="font-size:14px">11</span>
+              <br/>
+              <span style="font-size:13px">回答</span> 
+            </div>
+          </a>
+        </div>
+        <div class='item'>
+          <a class='ui label'>
+            <div style="text-align:center;line-height:140%">
+              <span style="font-size:14px">11</span>
+              <br/>
+              <span style="font-size:13px">浏览</span>
+            </div>
+          </a>
+        </div>
+        <div class='item'>
+            <div style="line-height:180%;">
+              <a href=''><span style='color:gray;'>作者</span></a> &nbsp &nbsp
+              <a href=''><span style='color:gray;'>发表事件</span></a> <br/>
+              <a href=''><span style='font-size:17px;color:black;'><b>发表的题目使设计发的sa</b></span></a>
+              <a class="ui small orange label">Orange</a> 
+              <a class="ui small orange label">Orange</a> 
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <div class='item'>
+      <div class='ui horizontal list'>
+        <div class='item'>
+          <a class='ui label'>
+            <div style="text-align:center;line-height:140%">
+              <span style="font-size:14px">11</span>
+              <br/>
+              <span style="font-size:13px">回答</span> 
+            </div>
+          </a>
+        </div>
+        <div class='item'>
+          <a class='ui label'>
+            <div style="text-align:center;line-height:140%">
+              <span style="font-size:14px">11</span>
+              <br/>
+              <span style="font-size:13px">浏览</span>
+            </div>
+          </a>
+        </div>
+        <div class='item'>
+            <div style="line-height:180%;">
+              <a href=''><span style='color:gray;'>作者</span></a> &nbsp &nbsp
+              <a href=''><span style='color:gray;'>发表事件</span></a> <br/>
+              <a href=''><span style='font-size:17px;color:black;'><b>发表的题目使设计发的sa</b></span></a>
+              <a class="ui small orange label">Orange</a> 
+              <a class="ui small orange label">Orange</a> 
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+
 <div class="ui bottom attached tab segment" data-tab="unanswer">
   未回答
 </div>
